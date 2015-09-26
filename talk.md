@@ -1,6 +1,6 @@
 ---
 title: An update from UK Research Software Engineers
-author: James Hetherington, Jonathan Cooper, Robert Haines, Simon Hettrick, James Spencer, Mark Stillwell, Michael Croucher, Christopher Woods
+author: James Hetherington, Jonathan Cooper, Robert Haines, Simon Hettrick, Susheel Varma, James Spencer, Mark Stillwell, Michael Croucher, Christopher Woods
 ---
 
 The problems facing research software are well known
