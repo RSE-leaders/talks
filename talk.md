@@ -42,6 +42,13 @@ Alternative approaches:
   * Reject submissions with unreproducible computational software
   * Funder mandates
 
+Advantages of RSE Groups
+------------------------
+
+* Can lead on training and teaching in reproducible computational research
+* Good for researchers who *don't* want to be programmers
+* Synergies with research computing platforms
+
 What is a Research Software Group?
 ----------------------------------
 
